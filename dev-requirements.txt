@@ -1,5 +1,6 @@
 Pint==0.5.2
 basebot==1.0.6
+coverage==3.7.1
 irc==8.9.1
 jaraco.timing==1.0
 jaraco.util==10.2

@@ -1,0 +1,14 @@
+Pint==0.5.2
+basebot==1.0.6
+irc==8.9.1
+jaraco.timing==1.0
+jaraco.util==10.2
+more-itertools==2.2
+nose==1.3.4
+oauthlib==0.6.3
+pep8==1.5.7
+pyrcon==0.0.3
+requests==2.1.0
+requests-oauthlib==0.4.0
+six==1.7.3
+twython==3.1.2
